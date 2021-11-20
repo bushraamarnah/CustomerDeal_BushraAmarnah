@@ -1,0 +1,8 @@
+{
+  "short_name": "Customer Deals",
+  "name": "Customer Deals",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

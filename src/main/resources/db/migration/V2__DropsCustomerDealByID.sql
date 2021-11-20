@@ -1,0 +1,2 @@
+ALTER TABLE CustomerDeal
+DROP CONSTRAINT IF EXISTS CustomerDealID;
